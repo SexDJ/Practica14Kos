@@ -1,0 +1,15 @@
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\bin\Debug\net7.0\PracticaKosickii14.exe
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\bin\Debug\net7.0\PracticaKosickii14.deps.json
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\bin\Debug\net7.0\PracticaKosickii14.runtimeconfig.json
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\bin\Debug\net7.0\PracticaKosickii14.dll
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\bin\Debug\net7.0\PracticaKosickii14.pdb
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\PracticaKosickii14.csproj.AssemblyReference.cache
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\PracticaKosickii14.GeneratedMSBuildEditorConfig.editorconfig
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\PracticaKosickii14.AssemblyInfoInputs.cache
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\PracticaKosickii14.AssemblyInfo.cs
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\PracticaKosickii14.csproj.CoreCompileInputs.cache
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\PracticaKosickii14.dll
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\refint\PracticaKosickii14.dll
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\PracticaKosickii14.pdb
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\PracticaKosickii14.genruntimeconfig.cache
+D:\IS-21\Guschin and Mugu\PracticaKosickii14\obj\Debug\net7.0\ref\PracticaKosickii14.dll
